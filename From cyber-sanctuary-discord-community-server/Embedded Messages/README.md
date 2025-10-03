@@ -10,14 +10,16 @@
 
 <!-- omit from toc -->
 ### Cyber Sanctuary | Table of Contents
-* [Bad Words - README.md](/Bad%20Words/README.md)
-* [Categories and Channels - README.md](/Categories%20and%20Channels/README.md)
-* [Community Roles - README.md](/Community%20Roles/README.md)
-* [Community Rules - README.md](/Community%20Rules/README.md)
-* [Embedded Messages - README.md](/Embedded%20Messages/README.md)
-* [Images](/Images/)
-* [Reaction Roles - README.md](/Reaction%20Roles/README.md)
-* [Welcome and Goodbye Message - README.md](/Welcome%20and%20Goodbye%20Message/README.md)
+* [Cyber Sanctuary TeamSpeak Community Server - README.md](/ssimon/Homelab/src/branch/main/README.md)
+* [Cyber Sanctuary TeamSpeak Community Server - LICENSE](/ssimon/Homelab/src/branch/main/LICENSE)
+* [Bad Words - README.md](/ssimon/Homelab/src/branch/main/Bad%20Words/README.md)
+* [Categories and Channels - README.md](/ssimon/Homelab/src/branch/main/Categories%20and%20Channels/README.md)
+* [Community Roles - README.md](/ssimon/Homelab/src/branch/main/Community%20Roles/README.md)
+* [Community Rules - README.md](/ssimon/Homelab/src/branch/main/Community%20Rules/README.md)
+* [Embedded Messages - README.md](/ssimon/Homelab/src/branch/main/Embedded%20Messages/README.md)
+* [Images](/ssimon/Homelab/src/branch/main/Images/)
+* [Reaction Roles - README.md](/ssimon/Homelab/src/branch/main/Reaction%20Roles/README.md)
+* [Welcome and Goodbye Message - README.md](/ssimon/Homelab/src/branch/main/Welcome%20and%20Goodbye%20Message/README.md)
 
 <!-- omit from toc -->
 ### Cyber Sanctuary | Embedded Messages | Table of Contents
