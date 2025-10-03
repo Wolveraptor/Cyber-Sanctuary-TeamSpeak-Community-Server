@@ -6,7 +6,7 @@
 ## Cyber Sanctuary | About Embedded Messages
 * This README.md serves as documentation and changelog for my Cyber Sanctuary Discord community server embedded messages.
 
-![alttext](/Images/Server%20Icons/Cyber%20Sanctuary%20-%20Server%20Icons%20-%20512x512%20-%20Earth%20from%20Space%201%20-%20Cyber%20Sanctuary.png)
+![Cyber Sanctuary TeamSpeak Community Server Logo](https://forgejo.cybersanctuary.xyz/ssimon/Cyber-Sanctuary-TeamSpeak-Community-Server/raw/branch/main/Images/Server%20Icons/Cyber%20Sanctuary%20-%20Server%20Icons%20-%20512x512%20-%20Earth%20from%20Space%201%20-%20Cyber%20Sanctuary.png "Cyber Sanctuary TeamSpeak Community Server Logo")
 
 <!-- omit from toc -->
 ### Cyber Sanctuary | Table of Contents
@@ -79,7 +79,7 @@
     4. English-only in voice and text channels.
     ```
 * Field 3 Name: ```Mods```
-* Field 3 Value: 
+* Field 3 Value:
     ```
     If you are unsure what a moderation team is for, review the [Role of Administrators and Moderators on Discord](https://discord.com/safety/360044103531-role-of-administrators-and-moderators-on-discord) article. In essence, the moderation team is here to ensure this Discord community is a safe and welcoming place for everyone.
 
@@ -131,7 +131,7 @@
     4. English-only in voice and text channels.
     ```
 * Field 3 Name: ```Mods```
-* Field 3 Value: 
+* Field 3 Value:
     ```
     If you are unsure what a moderation team is for, review the [Role of Administrators and Moderators on Discord](https://discord.com/safety/360044103531-role-of-administrators-and-moderators-on-discord) article. In essence, the moderation team is here to ensure this Discord community is a safe and welcoming place for everyone.
 
@@ -183,7 +183,7 @@
     4. English-only in voice and text channels.
     ```
 * Field 3 Name: ```Mods```
-* Field 3 Value: 
+* Field 3 Value:
     ```
     If you are unsure what a moderation team is for, review the [Role of Administrators and Moderators on Discord](https://discord.com/safety/360044103531-role-of-administrators-and-moderators-on-discord) article. In essence, the moderation team is here to ensure this Discord community is a safe and welcoming place for everyone.
 
