@@ -4,7 +4,7 @@
 ## Cyber Sanctuary | About this Repository
 * This repository is used for storing information, configurations, and changelogs for the `Cyber Sanctuary` TeamSpeak community server.
 
-![Cyber Sanctuary TeamSpeak Community Server Logo](https://forgejo.cybersanctuary.xyz/ssimon/Cyber-Sanctuary-TeamSpeak-Community-Server/raw/branch/main/Images/Server%20Icons/Cyber%20Sanctuary%20-%20Server%20Icons%20-%20512x512%20-%20Earth%20from%20Space%201%20-%20Cyber%20Sanctuary.png "Cyber Sanctuary TeamSpeak Community Server Logo")
+![Cyber Sanctuary TeamSpeak Community Server Logo](/Images/Server%20Icons/Cyber%20Sanctuary%20-%20Server%20Icons%20-%20512x512%20-%20Earth%20from%20Space%201%20-%20Cyber%20Sanctuary.png "Cyber Sanctuary TeamSpeak Community Server Logo")
 
 ### Cyber Sanctuary | Table of Contents
 * [Cyber Sanctuary TeamSpeak Community Server - README.md](/ssimon/Homelab/src/branch/main/README.md)
